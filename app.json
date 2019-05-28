@@ -1,0 +1,22 @@
+{
+  "expo": {
+   "name": "dhbwAwesome",
+   "icon": "./assets/icon.png",
+   "splash": {
+    "image": "./assets/splash.png"
+  },
+   "version": "0.1.1",
+   "slug": "dhbwAwesome",
+   "sdkVersion": "27.0.0",
+   "orientation": "portrait",
+   "ios": {
+     "bundleIdentifier": "com.re-host.diesdas.dhbwAwesomeforever"
+   },
+   "assetBundlePatterns": [
+    "./karsau.png"
+  ]
+  },
+  "updates": {
+    "fallbackToCacheTimeout": 0
+  }
+}
